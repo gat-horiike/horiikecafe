@@ -239,11 +239,7 @@ iframe {
 }
 
 /* SNS */
-.sns{
-  display: flex;
-}
 .sns-item {
-  flex: 1;
   margin-bottom: 2rem;
 }
 .sns-item .heading-medium {
